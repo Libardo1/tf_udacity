@@ -1,0 +1,6 @@
+*.pickle
+*.pkl
+*.tar*
+notMNIST*
+Docker*
+.ipynb_checkpoints*
